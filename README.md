@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @keksie
+- 👀 I’m interested in gaming, biking, hiking and swimming.
+- 🌱 I’m currently learning Java, C and Lua.
+- 📫 How to reach me: hallo@keksie.net or on Steam
