@@ -5,4 +5,4 @@
 - 🔧 See my latest (GLua) Project at [Discord](https://militaryrp-discord.keksie.net)
 - 📫 How to reach me: hallo@keksie.net or on [Steam](https://steamcommunity.com/id/keksie)
 
-<img src="https://stats.keksie.net/api?username=keksie&show=reviews&show_icons=true&theme=dark&locale=de">
+<img src="https://stats.keksie.net/api?username=keksie&show=reviews&show_icons=true&theme=dark&locale=de" />
